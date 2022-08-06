@@ -2,7 +2,7 @@
 
 ## Cypress
 
-![](Cypress.png)
+![](/png/Cypress.png)
 
 **Web Page:** https://www.cypress.io/
 
@@ -64,7 +64,7 @@ Cross browser Testing: Run tests within Firefox and Chrome-family browsers (incl
 
 ## Puppeteer
 
-![](Puppeteer.png)
+![](/png/Puppeteer.png)
 
 **Web Page:** https://pptr.dev/
 
@@ -105,7 +105,7 @@ Puppeteer shines when it comes to debugging: flip the “headless” bit to fals
 
 ## Selenium
 
-![](Selenium.png)
+![](/png/Selenium.png)
 
 **Web Page:** https://www.selenium.dev/
 
@@ -145,7 +145,7 @@ Selenium setup is quite different from the setup of other commercial tools. Befo
 
 ## Cucumber
 
-![](Cucumber.png)
+![](/png/Cucumber.png)
 
 **Web Page:** https://cucumber.io/
 
@@ -159,7 +159,7 @@ This is the JavaScript implementation of Cucumber. It runs on maintained version
 
 ## Jasmine
 
-![](Jasmine.png)
+![](/png/Jasmine.png)
 
 **Web Page:** https://jasmine.github.io/
 
@@ -186,7 +186,7 @@ Edge
 
 ## Jest
 
-![](Jest.png)
+![](/png/Jest.png)
 
 **Web Page:** https://jestjs.io/
 
@@ -216,7 +216,7 @@ From it to expect - Jest has the entire toolkit in one place. Well documented, w
 
 ## Mocha
 
-![](Mocha.png)
+![](/png/Mocha.png)
 
 **Web Page:** https://mochajs.org/
 
@@ -284,7 +284,7 @@ TextMate bundle
 
 ## Protractor
 
-![](Protractor.png)
+![](/png/Protractor.png)
 
 **Web Page:** https://www.protractortest.org/
 
